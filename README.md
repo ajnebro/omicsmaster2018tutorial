@@ -13,7 +13,7 @@ In this tutorial we will learn:
 
 ## Recommended readings
 
-* Metaheuristics in combinatorial optimization: Overview and conceptual comparison. C. Blum, A. Roli. ACM Computing Surveys Volume 35 Issue 3, September 2003. [DOI].
+* Metaheuristics in combinatorial optimization: Overview and conceptual comparison. C. Blum, A. Roli. ACM Computing Surveys Volume 35 Issue 3, September 2003. [DOI](https://doi.org/10.1145/937503.937505).
 
 * An Introduction to Evolutionary Algorithms. Shahim Rostami. [Video](https://www.youtube.com/watch?v=L--IxUH4fac). 
 
