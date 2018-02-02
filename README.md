@@ -26,6 +26,8 @@ In this tutorial we will learn:
 * Maven (https://maven.apache.org/download.cgi)
 * Intellij Idea Community Edition (https://www.jetbrains.com/idea/download)
 * Git (https://git-scm.com/)
+* jMetal (https://github.com/jMetal/jMetal, http://jmetal.github.io/jMetal/)
+* M2Align (https://github.com/KhaosResearch/M2Align)
 * Account in GitHub 
 * A tool for plotting data (Gnuplot, R, … )
 * Optionally: R and Latex
