@@ -17,6 +17,9 @@ In this tutorial we will learn:
 
 * An Introduction to Evolutionary Algorithms. Shahim Rostami. [Video](https://www.youtube.com/watch?v=L--IxUH4fac). 
 
+*  Multiobjective optimization in bioinformatics and computational biology. J. Handl, DB Kell, J Knowles. 
+IEEE/ACM Transactions on Computational Biology and Bioinformatics (2), 279-292. 2007. [DOI](https://doi.org/10.1109/TCBB.2007.070203)
+
 * Optimizing multiple sequence alignments using a genetic algorithm based on three objectives: structural information, non-gaps percentage and totally conserved columns. F.M. Ortuño et al. Bioinformatics, Volume 29, Issue 17, 1 September 2013, Pages 2112–2121. [DOI](https://doi.org/10.1093/bioinformatics/btt360).
 
 * M2Align: parallel multiple sequence alignment with a multi-objective metaheuristic. C. Zambrano-Vega, A.J. Nebro, J. García-Nieto, J.F. Aldana-Montes. Bioinformatics, Volume 33, Issue 19, 1 October 2017, Pages 3011–3017. [DOI](https://doi.org/10.1093/bioinformatics/btx338).
