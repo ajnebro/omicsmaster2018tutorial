@@ -1,6 +1,6 @@
 
 
-# Tutorial: "Multi-objecive optimization with metaheuristics. Applications to multiple sequence alignment and other bioinformatics problems"
+# Tutorial: "Multi-objective optimization with metaheuristics. Applications to multiple sequence alignment and other bioinformatics problems"
 
 This site contains stuff to be used in the tutorial I will give in the Omics Data Analysis Master of the University of Vic on 7th February 2018.
 
